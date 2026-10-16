@@ -6,6 +6,10 @@ A college IoT logistics engineering project providing end-to-end telemetry track
 
 ## 🏛️ System Architecture
 
+
+
+
+
 ```
 +-------------------------------------------------------------------------+
 |                          ESP32 Hardware Node                            |
