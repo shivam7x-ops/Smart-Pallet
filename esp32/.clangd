@@ -1,0 +1,16 @@
+CompileFlags:
+  Add:
+    - "-x"
+    - "c++"
+    - "-std=gnu++17"
+    - "-IC:/Users/cmdcodex/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.12/cores/esp32"
+    - "-IC:/Users/cmdcodex/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.12/variants/esp32"
+    - "-IC:/Users/cmdcodex/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.12/libraries/WiFi/src"
+    - "-IC:/Users/cmdcodex/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.12/libraries/HTTPClient/src"
+    - "-IC:/Users/cmdcodex/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.12/libraries/Wire/src"
+    - "-IC:/Users/cmdcodex/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.12/libraries/Network/src"
+    - "-IC:/Users/cmdcodex/Documents/Arduino/libraries/DHT_sensor_library"
+    - "-IC:/Users/cmdcodex/Documents/Arduino/libraries/TinyGPSPlus/src"
+    - "-IC:/Users/cmdcodex/Documents/Arduino/libraries/Adafruit_Unified_Sensor"
+Diagnostics:
+  Suppress: "*"
